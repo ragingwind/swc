@@ -86,7 +86,7 @@ For running all tests, take the following steps:
     ```
 
 2. Install js dependencies.
-   Ensure [Yarn Package Manager is installed](https://yarnpkg.com/getting-started/install)
+   Ensure [Yarn Package Manager is installed](https://docs.deno.com/runtime/manual/getting_started/installation/)
 
     ```bash
     yarn
@@ -102,7 +102,7 @@ For running all tests, take the following steps:
 
 4. Install deno
 
-    See [official install guide of deno](https://deno.land/manual/getting_started/installation) to install it.
+    See [official install guide of deno](https://docs.deno.com/runtime/manual/getting_started/installation/) to install it.
 
 5. Add wasm32-wasi target
 
